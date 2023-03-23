@@ -1,3 +1,10 @@
+:root{
+  --bs-primary-bg-subtle: #00B601;
+  --bs-secondary-bg-subtle:#FFD600;
+  --bs-primary-border-subtle: #00B601;
+  --bs-secondary-border-subtle : #FFD600;
+}
+
 html {
   height: 100%;
   width: 100%;
